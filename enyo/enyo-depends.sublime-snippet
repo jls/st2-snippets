@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+enyo.depends(
+	'$1'${2:,
+	'${3}'${4:,
+	'${5}'}}$0
+);
+]]></content>
+	<tabTrigger>enyodepends</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+enyo.kind({
+
+	name: '${1}',
+	${2:kind: '${3}',}
+
+	published: {
+		${5}
+	}${4:,}
+
+	$0
+
+});
+]]></content>
+	<tabTrigger>enyokind</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+${1:property}Changed: function(old)
+{
+	$0
+}${2:,}
+]]></content>
+	<tabTrigger>changed</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

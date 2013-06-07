@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+handle${1:EventName}: function(sender, event)
+{
+	$0
+}${2:,}
+]]></content>
+	<tabTrigger>handle</tabTrigger>
+	<scope>source.js</scope>
+	<description>Adds event handler</description>
+</snippet>

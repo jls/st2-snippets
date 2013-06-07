@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+${1:name}: function($2)
+{
+	this.inherited(arguments);
+	$0
+}${3:,}
+]]></content>
+	<tabTrigger>over</tabTrigger>
+	<scope>source.js</scope>
+	<description>Adds a method with a call to this.inherited</description>
+</snippet>
