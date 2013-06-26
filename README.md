@@ -2,7 +2,7 @@
 
 The snippets should go in `~/Library/Application Support/Sublime Text 2/Packages/User`
 
-If you are using git you can `clone https://github.com/jls/st2-snippets ~/Library/Application Support/Sublime Text 2/Packages/User` otherwise you will need to download the zip and extract to that directory.
+If you are using git you can `clone https://github.com/jls/st2-snippets ~/Library/Application Support/Sublime Text 2/Packages/User` otherwise you will need to [download the zip](https://github.com/jls/st2-snippets/archive/master.zip) and extract to that directory.
 
 # Snippets
 
