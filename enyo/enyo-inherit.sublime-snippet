@@ -1,0 +1,14 @@
+<snippet>
+  <content><![CDATA[
+${1:name}: enyo.inherit(function(sup)
+{
+	return function(){
+		sup.apply(this, arguments);
+		$0
+	};
+})${2:,}
+]]></content>
+	<tabTrigger>inherit</tabTrigger>
+	<scope>source.js</scope>
+	<description>Adds an enyo inherited method.</description>
+</snippet>
